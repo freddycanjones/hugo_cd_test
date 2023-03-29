@@ -6,10 +6,4 @@ draft: false
 
 This is a random text generated for testing Hugo
 
-# Big Tags
-
-# Great People 
-
-# It is what it is
-
-# Liz is with me now
+## Data Science is better than everyone's opinion (Test)
