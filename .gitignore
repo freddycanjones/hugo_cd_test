@@ -1,7 +1,10 @@
+# Don't check  in hugo static files
+public
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
-*.dll
+*dll
 *.so
 *.dylib
 
